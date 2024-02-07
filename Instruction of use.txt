@@ -1,0 +1,10 @@
+The project is shared and updated in the repo:
+https://github.com/BrianDai46/Web_Article_Summarizer
+
+First assure that the relevant packages are installed in your environment.
+Run the 'interface.py' to open the summarizer program, 
+certain NLP function may not work because not all of the models
+are shared due to their extreme sizes. 
+
+Please contact us if you need help or have concerns.
+
