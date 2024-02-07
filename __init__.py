@@ -1,3 +1,1 @@
-# Maintain this folder to contain output files. 
-name = 'output'
-
+name = 'nlp_model'
